@@ -3,6 +3,7 @@
 
 #######################################################################
 ## Adapted from Mischnik M et al. IKAP: A heuristic framework for inference of kinase activities from Phosphoproteomics data. Bioinformatics. 2016
+## written by Ji-hoon Cho and modified by Timothy Shaw
 #######################################################################
 
 import os
